@@ -1,0 +1,14 @@
+.myradio-c .ant-radio-button-wrapper-checked{
+    background: #5cd5dd;
+    border-color: #5cd5dd !important;
+    color: #fff !important;
+    box-shadow: -1px 0 0 0 #5cd5dd;
+    z-index: 1;
+}
+.myradio-c .ant-radio-button-wrapper:hover, .ant-radio-button-wrapper-focused {
+    color: #bebebe !important;
+    position: relative;
+}
+.myradio-c{
+    color:#000000 !important
+}

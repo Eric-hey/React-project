@@ -1,0 +1,14 @@
+.footer-link a {
+    display: inline-block;
+    font-size: 14px;
+    color: #999;
+    line-height: 28px;
+    margin: 0 36px 0 0;
+}
+.ant-layout-footer{
+    background-color: #474443;
+    padding: 24px 50px;
+    color: #fff;
+    font-size: 14px;
+    box-shadow: 0 -4px 8px 0 rgba(7,17,27,.1);
+}

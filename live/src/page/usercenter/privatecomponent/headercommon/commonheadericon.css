@@ -1,0 +1,156 @@
+
+.personCenterContent{
+    width: 100%;
+    /*height: 550px;*/
+    /*box-shadow:0px 0px  10px 6px #dddddd ;*/
+}
+.personCenter_topOne{
+    width: 100%;
+    height: 180px;
+    margin-bottom: 10px;
+    box-sizing: border-box;
+    padding:22px 61px;
+    display: flex;
+    flex-direction: row;
+    /*border:1px solid #e4e4e4;*/
+    background: #ffffff;
+}
+.personHeaderPic{
+    /*width:11%;*/
+    /*height: 100%;*/
+    margin-right: 2%;
+    border-radius: 50%;
+    overflow: hidden;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.perHeaderPicImg{
+    width: 136px;
+    height: 136px;
+}
+.perHeaderPicImg img{
+    width: 100%;
+    height: 100%;
+}
+.downloadApp{
+    width:23%;
+    /*background: yellowgreen;*/
+}
+.personDetail{
+    flex: 1;
+    /*background: cadetblue;*/
+}
+.personDetail p{
+    margin-top: 5px;
+    margin-bottom: 0!important;
+}
+.nameLabel{
+    font-size: 15px;
+    color: #000;
+}
+
+.longLabel{
+    font-size: 13px;
+    color: #666;
+}
+.readyOnlyInpt{
+    border:1px solid transparent;
+    outline: none;
+}
+.editInput{
+    border:1px solid transparent;
+    border-bottom-color: #CCCCCC!important;
+    outline: none;
+}
+.nameLabel .ant-avatar{
+    display: block;
+}
+.nameLabel .anticon-edit,.anticon-check{
+    color: deepskyblue;
+    cursor: pointer;
+}
+.downloadDiv{
+    width:200px;
+    height: 45px;
+    background: #5cd5dd;
+    border-radius: 5px;
+    position: fixed;
+    right: 0;
+    padding: 10px 20px;
+    font-size: 17px;
+    color: #ffffff;
+    cursor: pointer;
+    z-index: 99;
+}
+.anticon-youtube{
+    margin-right: 8px;
+    font-size: 24px;
+    vertical-align: top;
+}
+textarea{
+    border:1px solid transparent;
+    outline: none;
+    resize: none;
+    display: inline-block;
+    width: 100%;
+    height: 26px;
+}
+.ant-btn-primary{
+    /*margin-left: 10px;*/
+}
+.leftText{
+    margin-right: 10px;
+}
+.search{
+    margin-left: 10px;
+    /*color: #5cd5dd;*/
+    /*border-color: #5cd5dd;*/
+}
+.rechange{
+    display: none;
+}
+.modal_Content{
+    z-index: 99999999;
+}
+.downloadContent{
+    width: 100%;
+    height: auto;
+}
+.download-top{
+    /*text-align: center;*/
+}
+.h1One{
+    text-indent: 87px;
+}
+.h1Two {
+    text-indent: 180px;
+}
+.downloadBtn{
+    text-align: center;
+    margin-top: 30px;
+}
+.infoPic{
+    text-align: center;
+    margin-top: 20px;
+}
+.checkDetail{
+    display: inline-block;
+    margin-left: 10px;
+    color: deepskyblue;
+    cursor: pointer;
+}
+.studentCenter{
+    margin-left: 10px;
+    display: inline-block;
+}
+.rechangeMoney{
+    cursor: pointer;
+    color: #e80707;
+}
+.modal_Con .ant-modal-footer{
+    display: none!important;
+}
+.modal_Con .ant-modal-body {
+    padding: 26px 24px!important;
+}

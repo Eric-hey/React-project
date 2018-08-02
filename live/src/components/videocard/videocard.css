@@ -1,0 +1,46 @@
+.videocard-c{
+    padding: 10px 0px;
+    margin-bottom: 20px;
+}
+.videocard-c li{
+    width:18%;
+    height:163px;
+    float: left;
+    margin:0px 1%;
+    cursor: pointer;
+}
+.video-list-img{
+    height:124px;
+}
+.videocard-c li:hover{
+    transform: scale(1.05);
+}
+.videocard-c:after{
+    content: '';
+    height: 0;
+    visibility: hidden;
+    display: block;
+    clear: both;
+}
+.videocard-c li img{
+    width:100%;
+}
+.videoimage-bar{
+    color: #999;
+    background-color: #f0f2f5;
+    padding: 0px 10px;
+}
+.firsttitle-c{
+    font-size: 14px;
+    color: #333;
+    cursor: pointer;
+    overflow: hidden;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+}
+.vodeo-description-c{
+    font-size: 12px;
+    overflow: hidden;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+}

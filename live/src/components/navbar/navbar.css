@@ -1,0 +1,59 @@
+ .logo {
+    width: 120px;
+    margin: 0px 20px;
+    float: left;
+}
+ .down-container {
+     width: 120px;
+     margin: 0px 10px;
+     float: right;
+ }
+ .ant-layout-header {
+     background: #fff;
+     padding: 0 50px;
+     height: 64px;
+     box-shadow: 0 4px 8px 0 rgba(7,17,27,.1);
+ }
+ .serchcontainer{
+     float: right;
+     margin: 0px 20px;
+ }
+ .userheader_container{
+   float: right;
+ }
+ .login-register-c{
+     float: right;
+ }
+ .login-register-c span{
+     display: inline-block;
+ }
+ .login-register-c .lr-c{
+     margin: 0px 10px;
+     cursor: pointer;
+ }
+ .ant-layout-footer {
+     background: #474443;
+     padding: 24px 50px;
+     color: #fff;
+     font-size: 14px;
+ }
+ .ant-menu-horizontal{
+     line-height: 63px !important;
+     border-bottom: 0px !important;
+ }
+ .keytile-c{
+     float: left;
+     margin: 0px;
+     padding:0px;
+ }
+ .keytile-c li{
+     width: 100px;
+     margin: 0px 10px;
+     display: block;
+     color: #4D555D;
+     text-align: center;
+     font-size: 16px;
+     line-height: 64px;
+     float: right;
+     cursor: pointer;
+ }

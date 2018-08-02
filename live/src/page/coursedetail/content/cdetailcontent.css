@@ -1,0 +1,157 @@
+.courdetail-c{
+    padding: 10px;
+    width: 100%;
+    background-color: #fff;
+    border-radius: 7px;
+}
+.detail-c{
+    width:100%;
+    background: #f0f2f5 !important;
+    cursor: pointer;
+    padding:24px;
+}
+
+.courdetail-c:after{
+    content: '';
+    height: 0;
+    visibility: hidden;
+    display: block;
+    clear: both;
+
+}
+.bordcast-c{
+    height:300px;
+    width: 35%;
+    float: left;
+
+}
+.currentcur-c{
+    height:300px;
+    width: 65%;
+    float: left;
+}
+.bordcast-c img{
+    width: 100%;
+    height: 100%;
+}
+.bordcast-c .play-c{
+    width: 100px;
+    height: 100px;
+    font-size: 70px;
+    position: absolute;
+    margin-top: 90px;
+    margin-left: 184px;
+}
+.currentcur-c{
+    text-align: center;
+}
+.bigtile{
+    font-size: 53px;
+    font-weight: 700;
+    letter-spacing: 10px;
+}
+.introduce-c{
+    margin-top: 45px;
+}
+.introduce-c span{
+    display: inline-block;
+}
+.list-son{
+    margin-right:20px;
+}
+.firstspan{
+    margin-right:10px;
+}
+.start-c{
+    color:#ff9900
+}
+.detail-con h3{
+    margin-top: 10px;
+    letter-spacing: 5px;
+}
+.price-i-c{
+    margin:15px 0px;
+}
+.price-i-c span{
+    font-size: 30px;
+    font-weight: 700;
+    color: red;
+}
+.alow-bar{
+    margin-left: 18px;
+    font-weight: 700;
+}
+.price-i-c span{
+    display: inline-block;
+    margin:0px 4px
+
+}
+.price-i-c .unit-c{
+    font-size: 16px;
+}
+.cueserdetail-c:after{
+    content: '';
+    height: 0;
+    visibility: hidden;
+    display: block;
+    clear: both;
+}
+.cueserdetail-c li{
+    float: left;
+}
+.curseintroduce-c{
+    width:68%;
+    margin: 0px 10px;
+}
+.teachintroduce{
+    width:30%;
+    text-align: center;
+    color:#7d8a94;
+}
+.cueserdetail-c{
+    margin-top: 20px;
+    background-color: #fff;
+    padding: 10px;
+    border-radius: 7px;
+}
+.teachintroduce{
+    background-color: #ebecea;
+    height:500px;
+    border-radius: 7px;
+}
+.teacher-img-c{
+    width: 100%;
+    overflow: hidden;
+    text-align: center;
+    margin: 10px 0px;
+}
+.teacher-img-c img{
+    width: 120px;
+    height:120px;
+    border-radius: 50%;
+}
+.teacher-img-c>div {
+    height:130px;
+    width:130px;
+    border-radius: 50%;
+    background-color: #fff;
+    line-height: 130px;
+    margin: 0 auto;
+}
+.teachname-c{
+    font-size: 20px;
+    font-weight: 700;
+}
+.introduce-teach{
+    border-bottom: 1px solid #7d8a94;
+}
+.studing-c{
+    text-align: start;
+    margin: 20px;
+}
+.studing-header{
+margin-top: 20px;
+}
+.ant-avatar{
+    margin: 5px 10px;
+}

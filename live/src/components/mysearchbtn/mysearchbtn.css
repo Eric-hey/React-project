@@ -1,0 +1,13 @@
+.ant-btn-primary:hover, .ant-btn-primary:focus {
+    color: #fff;
+    background-color: #5cd5dd;
+    border-color: #5cd5dd;
+}
+.ant-btn-primary {
+    color: #fff;
+    background-color: #5cd5dd;
+    border-color: #5cd5dd;
+}
+.ant-input-affix-wrapper:hover .ant-input:not(.ant-input-disabled) {
+    border-color: #5cd5dd;
+}

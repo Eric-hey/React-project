@@ -1,0 +1,32 @@
+.videoCardList-c{
+    width: 100%;
+    background-color: #fff;
+    margin: 20px 0px;
+    padding: 24px;
+}
+.search-advice-c{
+    width:100%;
+    text-align: center;
+}
+.search-advice-c span{
+    display: inline-block;
+
+}
+.advice-list{
+    margin: 0px 10px;
+}
+.myselect-c{
+}
+.myselect-c:after{
+    content: '';
+    height: 0;
+    clear: both;
+    overflow: hidden;
+    display: block;
+}
+.myselect-c div{
+    float: right;
+}
+.livecourselist-c .ant-select-selection:hover {
+    border-color: #5cd5dd;
+}

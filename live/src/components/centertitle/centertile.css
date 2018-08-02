@@ -1,0 +1,34 @@
+.container-types .types-title {
+    position: relative;
+    font-size: 14px;
+    color: #93999F;
+    letter-spacing: .6px;
+    line-height: 36px;
+    text-align: center;
+}
+.container-types .types-title span.icon-shizhan-l {
+    background-position: center 0;
+}
+.container-types .types-title .tit-icon-l {
+    margin-right: 24px;
+}
+.container-types .types-title .tit-icon {
+    display: inline-block;
+    vertical-align: bottom;
+    width: 56px;
+    height: 36px;
+    background: url(./centertileicon/icon.png) no-repeat;
+    background-size: 100%;
+}
+.container-types .types-title span.icon-shizhan-r {
+    background-position: center 0px;
+}
+.container-types .types-title .tit-icon-r {
+    margin-left: 24px;
+}
+.container-types .types-title em {
+    font-size: 20px;
+    font-weight: 600;
+    color: #4D555D;
+    margin: 0 3px;
+}

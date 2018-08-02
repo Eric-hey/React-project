@@ -1,0 +1,18 @@
+.types-title-more {
+    font-size: 13px;
+    line-height: 36px;
+    color: #93999F
+}
+.types-title-more:hover{
+    color: #07111B
+}
+.types-title-more span {
+    float: left;
+    margin-right: 4px;
+    line-height: 20px;
+}
+.types-title-more i{
+float: left;
+margin-right: 4px;
+line-height: 20px;
+}

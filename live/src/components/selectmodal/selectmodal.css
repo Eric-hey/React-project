@@ -1,0 +1,69 @@
+.currentSelectModal{
+    min-width: 520px;
+    width: 80%!important;
+}
+.currentSelectModal .ant-modal-footer{
+    text-align: center;
+}
+.currentSelectModal .ant-modal-close-x{
+    display: none;
+}
+.currentParCon{
+    width: 100%;
+    height: auto;
+    margin-top: 15px!important;
+}
+.currentSelectModal .ant-col-8{
+    margin-bottom: 10px;
+}
+.currentParCon h3{
+    font-size: 16px;
+}
+.anticon-codepen-circle {
+    font-size: 10px;
+}
+.fristIcon{
+    color: #f56dee;
+}
+.secondIcon{
+    color: #71a1ef;
+}
+.thridIcon {
+    color: #f29d03;
+}
+
+.fourIcon{
+    color:lightpink;
+}
+.currentSelectModal .ant-modal-body{
+    height: auto;
+}
+.selectDetail{
+    display: inline-block;
+    padding:4px 15px;
+    border:1px solid #CCCCCC;
+    border-radius: 15px;
+    margin: 3px 3px;
+    background: #ffffff;
+    outline: none;
+    cursor: pointer;
+}
+.currentParCon{
+    height: auto;
+    flex-wrap: nowrap;
+    cursor: pointer;
+}
+.selectDetail:hover{
+    border-color: #5cd5dd;
+    background: #5cd5dd;
+    color: #ffffff;
+}
+.currentSelectDetail{
+    display: inline-block;
+    padding:4px 15px;
+    border:1px solid #5cd5dd;
+    background: #5cd5dd;
+    color: #ffffff;
+    border-radius: 15px;
+    margin: 3px 3px;
+}

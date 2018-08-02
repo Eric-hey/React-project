@@ -1,0 +1,65 @@
+.personCenter{
+    width:100%;
+    height: auto;
+    background: #f0f2f5;
+    box-sizing: border-box;
+    padding:24px;
+    /*position: fixed;*/
+}
+.teacherIncome{
+    width:100%;
+    background: #ffffff;
+    padding:22px;
+}
+.teacherIncome p{
+    width:100%;
+}
+.payQuestions{
+    width: 100%;
+    padding: 22px 61px;
+    margin-bottom: 10px;
+    background: #ffffff;
+    display: flex;
+    flex-direction: row;
+}
+.payQuestion_con{
+    width: 50%;
+}
+.searchQuestionsDetail{
+    display: inline-block;
+    font-size: 13px;
+    color: deepskyblue;
+    margin-left: 70px;
+    cursor: pointer;
+}
+.questionDetailCon{
+    padding:0 28px;
+    color: #000000!important;
+    cursor: pointer;
+    margin-top: 30px;
+}
+.exchangeDetail{
+    width: 100%;
+    height: auto;
+    padding: 22px 61px;
+    background: #ffffff;
+}
+.exchangeDetail h3,.payQuestions h3{
+    /*font-weight: 600;*/
+    margin-bottom: .9em;
+}
+.ant-table-content{
+    border: 1px solid #e8e8e8;
+    border-bottom-color: transparent!important;
+}
+.anticon-pay-circle,.anticon-question-circle,.anticon-smile{
+    margin-right:.6em;
+    font-size: 18px;
+    /*vertical-align: bottom;*/
+}
+th span{
+    /*font-weight: 600;*/
+}
+.rechange{
+    /*display: inline-block!important;*/
+}
